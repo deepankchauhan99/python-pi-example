@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
 def main(msg):
-    // comment
+    # comment
     print(msg)
 main("Hello DEEPANK")
