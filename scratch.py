@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 
 def main(msg):
-    # this is another comment.
-    # comment has been changed.
+    # No longer need comments
     print(msg)
+
+def secondary():
+    print("New function")
 main("Hello DEEPANK")
